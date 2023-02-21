@@ -1,6 +1,7 @@
 # Selection-sort--protect
 protect 1.
 https://app.patika.dev/goktugkse
+
 [22,27,16,2,18,6] -> Insertion Sort
 
 Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
